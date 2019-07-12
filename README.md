@@ -1,2 +1,2 @@
 # HWI_demo
-files to be used at HWI tutorial
+This repo contains files to be used at HWI tutorial on july 17. Please see the list of web links and download and install MEGA 7.0 and UCSF Chimera 1.13 to a laptop you will be using during the tutorial. 
